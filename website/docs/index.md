@@ -41,34 +41,44 @@ Topics of interest include, but are not limited to:
 ##Submission and Registration
 Authors are invited to submit regular (full) papers for presentation at the workshop, describing original, previously unpublished work, which is not currently under review by another workshop, conference, or journal. Regular papers should present novel perspectives within the general scope of the workshop.
 
-Papers may be no more than **6 pages** in length. Papers in excess of page limits shall not be considered for review or publication. All papers must be typeset in double-column IEEE format using 10pt fonts on US letter paper, with all fonts embedded. The IEEE LaTeX and Microsoft Word templates, as well as related information, can be found at the IEEE Computer Society website. Submissions must be made via [EDAS](https://edas.info/22899).
+Papers may be no more than **6 pages** in length. Papers in excess of page limits shall not be considered for review or publication. All papers must be typeset in double-column IEEE format using 10pt fonts on US letter paper, with all fonts embedded. The IEEE LaTeX and Microsoft Word templates, as well as related information, can be found at the IEEE Computer Society website. Submissions must be made via [EDAS](https://edas.info/N22899).
 
 It is a requirement that all authors listed in the submitted paper are also listed in EDAS. The author section of EDAS will be locked after the workshop submission deadline to ensure that conflict-of-interest can be properly enforced during review. If the list of authors differs between the paper and EDAS, the paper may not be reviewed. The authors of accepted papers must guarantee that their paper will be presented at the workshop. At least one author of each accepted paper must be registered at full rate for that paper to appear in the proceedings and to be scheduled for presentation.
 
 **Each accepted paper will require a full PERCOM conference registration (no registration is available for workshops only).**
 
-Submission link: [https://edas.info/22899](https://edas.info/22899)
+Submission link: [https://edas.info/N22899](https://edas.info/N22899)
 
 ##Organizers
 
   - **Co-Chairs**
 
     - [**Farzana Rahman**](https://w3.cs.jmu.edu/rahma2fx)  
-    James Madison University, VA, USA  
+    James Madison University  
     Email: rahma2fx@jmu.edu
 
     - [**Endadul Hoque**](https://endadul.github.io)  
-    Northeastern University, Boston, MA, USA   
-    Email: e.hoque@neu.edu
+    Northeastern University  
+    Email: mhoque@purdue.edu
 
   - **Technical Program Committee**
 
-    - TBA
+    - Ayan Banerjee, Arizona State University
+    - Zakirul Alam Bhuiyan, Temple University
+    - Fahim Kawser, HP Labs
+    - Brahim Medjahed, University of Michigan Dearborn
+    - Shahriar Nirjon, University of North Carolina at Chapel Hill
+    - Anne Ngu, Texas State University
+    - Jamie Payton, University of North Carolina-Charlotte
+    - Michael Sheng, University of Adelaide
+    - Wenbo Shi, Harvard University
 
-  - **Publicity Co-Chair**
 
-    - TBA
 
+  - **Publicity Chair**
+    - **Samy El-Tawab**  
+    James Madison University  
+    Email: eltawass@jmu.edu
 
 ##Workshop Program
 TBA
