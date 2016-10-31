@@ -64,7 +64,7 @@ Submission link: [https://edas.info/N22899](https://edas.info/N22899)
   - **Technical Program Committee**
 
     - Ayan Banerjee, Arizona State University
-    - Zakirul Alam Bhuiyan, Temple University
+    - Zakirul Alam Bhuiyan, Fordham University
     - Fahim Kawser, HP Labs
     - Brahim Medjahed, University of Michigan Dearborn
     - Shahriar Nirjon, University of North Carolina at Chapel Hill
