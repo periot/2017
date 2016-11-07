@@ -28,7 +28,8 @@ Topics of interest include, but are not limited to:
 
 
 ##Important Dates
-  Papers submission deadline: **November 11, 2016**  
+  Papers submission deadline: **<strike>November 11, 2016</strike>
+  November 18, 2016** (<font color="red">**Final extension**</font>)**  
   Author notification due: **December 23, 2016**   
   Camera ready deadline: **January 13, 2017 (FIRM)**   
   Author registration deadline: **January 13, 2017 (FIRM)**   
