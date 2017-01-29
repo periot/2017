@@ -4,6 +4,9 @@
 
 ##<a name="dummy2"></a>March 13 - 17, Kona, Big Island, Hawaii, USA
 
+<p><h2>Preliminary program has been posted <a
+href="#preliminary-program">here</a></h2></p>
+
 
 The Internet of Things (IoT) is a novel paradigm that is rapidly gaining ground in the scenario of modern wireless telecommunications. The IoT enables large numbers of previously unconnected devices to communicate and exchange data and deal with services that span areas from healthcare to transportation and much more, with the potential for significant benefits to people and quality of life. The IoT would also enable a range of new capabilities and services far beyond today’s offerings, which will radically change the lifestyles of future human generation. In recent years, Internet has become increasingly pervasive. Besides allowing people to connect anytime and everywhere to achieve pervasiveness and allow mobility, the Internet is evolving into the communication medium for objects that are embedded in the real world. The coupling among mobile technology, embedded smart objects and a worldwide pervasive communication infrastructure constitutes the Mobile and Pervasive Internet of Things. The mobile and pervasive IoT enables a detailed characterization of the real physical applications, as well as a rich set of pervasive interactions with the physical world. As such, it has the potential to revolutionize future pervasive applications and influence the real world entities to achieve better quality of life for future generation of mankind. We invite original research contributions that advance the state of the art posing a new direction or present a controversial point of view. PerIoT will be held in conjunction with IEEE PerCom 2017.
 
@@ -26,6 +29,8 @@ Topics of interest include, but are not limited to:
   - IoT platforms for BigData and Data analytics on mobile and pervasive environments
   - Fault-tolerance and reliability in mobile and pervasive IoT applications
 
+## Preliminary program 
+  [PDF](./PerIoT2017-Program.pdf)
 
 ##Important Dates
   Papers submission deadline: **<strike>November 11, 2016</strike>
